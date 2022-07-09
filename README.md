@@ -5,7 +5,7 @@
   - TypeScript
   - Go
  
-- Develop Tool
+- Tools
   - Container
     - Dokcer
     - Docker-Compose
